@@ -1,0 +1,5 @@
+Hello (Привет) - Пример: Hello, my name is John. (Привет, меня зовут Джон.)
+Goodbye (До свидания) - Пример: It's time to say goodbye. (Пора сказать до свидания.)
+Yes (Да) - Пример: Yes, I would like some tea. (Да, я бы хотел чаю.)
+No (Нет) - Пример: No, thank you. (Нет, спасибо.)
+Please (Пожалуйста) - Пример: Can you pass me the salt, please? (Можешь передать мне соль, пожалуйста?)
